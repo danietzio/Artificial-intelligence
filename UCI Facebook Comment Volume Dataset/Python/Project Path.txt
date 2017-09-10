@@ -1,3 +1,4 @@
 1- Finding best Thetas with first method of linear regression
 2- Evaluating Model
 3- Correcting method for finding better predections
+4- Checking refrence website for another notes
